@@ -3,5 +3,6 @@ yfinance
 fbprophet 
 plotly
 pandas
+pystan==2.19.1.1
 Cython
 convertdate
