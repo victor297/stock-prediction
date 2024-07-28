@@ -1,6 +1,7 @@
+numpy
 yfinance 
 fbprophet 
 plotly
 pandas
 Cython
-numpy
+convertdate
